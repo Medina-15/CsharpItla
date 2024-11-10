@@ -1,0 +1,14 @@
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\bucles-notas\bin\Debug\net8.0\bucles-notas.exe
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\bucles-notas\bin\Debug\net8.0\bucles-notas.deps.json
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\bucles-notas\bin\Debug\net8.0\bucles-notas.runtimeconfig.json
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\bucles-notas\bin\Debug\net8.0\bucles-notas.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\bucles-notas\bin\Debug\net8.0\bucles-notas.pdb
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\bucles-notas\obj\Debug\net8.0\bucles-notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\bucles-notas\obj\Debug\net8.0\bucles-notas.AssemblyInfoInputs.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\bucles-notas\obj\Debug\net8.0\bucles-notas.AssemblyInfo.cs
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\bucles-notas\obj\Debug\net8.0\bucles-notas.csproj.CoreCompileInputs.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\bucles-notas\obj\Debug\net8.0\bucles-notas.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\bucles-notas\obj\Debug\net8.0\refint\bucles-notas.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\bucles-notas\obj\Debug\net8.0\bucles-notas.pdb
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\bucles-notas\obj\Debug\net8.0\bucles-notas.genruntimeconfig.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\bucles-notas\obj\Debug\net8.0\ref\bucles-notas.dll
