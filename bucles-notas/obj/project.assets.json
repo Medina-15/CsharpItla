@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\bucles-notas\\bucles-notas.csproj",
+      "projectUniqueName": "C:\\Users\\aliso\\Source\\Repos\\Medina-15\\CsharpItla\\bucles-notas\\bucles-notas.csproj",
       "projectName": "bucles-notas",
-      "projectPath": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\bucles-notas\\bucles-notas.csproj",
+      "projectPath": "C:\\Users\\aliso\\Source\\Repos\\Medina-15\\CsharpItla\\bucles-notas\\bucles-notas.csproj",
       "packagesPath": "C:\\Users\\aliso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\bucles-notas\\obj\\",
+      "outputPath": "C:\\Users\\aliso\\Source\\Repos\\Medina-15\\CsharpItla\\bucles-notas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aliso\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,14 @@
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Lotedehierro\bin\Debug\net8.0\Lotedehierro.exe
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Lotedehierro\bin\Debug\net8.0\Lotedehierro.deps.json
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Lotedehierro\bin\Debug\net8.0\Lotedehierro.runtimeconfig.json
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Lotedehierro\bin\Debug\net8.0\Lotedehierro.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Lotedehierro\bin\Debug\net8.0\Lotedehierro.pdb
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Lotedehierro\obj\Debug\net8.0\Lotedehierro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Lotedehierro\obj\Debug\net8.0\Lotedehierro.AssemblyInfoInputs.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Lotedehierro\obj\Debug\net8.0\Lotedehierro.AssemblyInfo.cs
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Lotedehierro\obj\Debug\net8.0\Lotedehierro.csproj.CoreCompileInputs.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Lotedehierro\obj\Debug\net8.0\Lotedehierro.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Lotedehierro\obj\Debug\net8.0\refint\Lotedehierro.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Lotedehierro\obj\Debug\net8.0\Lotedehierro.pdb
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Lotedehierro\obj\Debug\net8.0\Lotedehierro.genruntimeconfig.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Lotedehierro\obj\Debug\net8.0\ref\Lotedehierro.dll
