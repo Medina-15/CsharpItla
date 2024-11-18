@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\Lotedehierro\\",
+  "WorkspaceRootPath": "C:\\Users\\aliso\\source\\repos\\Medina-15\\CsharpItla\\Lotedehierro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{442E76C1-E47A-41B5-B48A-C55F0C7C39A8}|Lotedehierro.csproj|c:\\users\\aliso\\onedrive\\escritorio\\bueee\\c#\\itla\\practicas\\lotedehierro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{442E76C1-E47A-41B5-B48A-C55F0C7C39A8}|Lotedehierro.csproj|c:\\users\\aliso\\source\\repos\\medina-15\\csharpitla\\lotedehierro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{442E76C1-E47A-41B5-B48A-C55F0C7C39A8}|Lotedehierro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\Lotedehierro\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aliso\\source\\repos\\Medina-15\\CsharpItla\\Lotedehierro\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\Lotedehierro\\Program.cs",
+              "ToolTip": "C:\\Users\\aliso\\source\\repos\\Medina-15\\CsharpItla\\Lotedehierro\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T19:22:06.032Z",
               "EditorCaption": ""

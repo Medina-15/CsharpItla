@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\Lotedehierro\\Lotedehierro.csproj",
+      "projectUniqueName": "C:\\Users\\aliso\\Source\\Repos\\Medina-15\\CsharpItla\\Lotedehierro\\Lotedehierro.csproj",
       "projectName": "Lotedehierro",
-      "projectPath": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\Lotedehierro\\Lotedehierro.csproj",
+      "projectPath": "C:\\Users\\aliso\\Source\\Repos\\Medina-15\\CsharpItla\\Lotedehierro\\Lotedehierro.csproj",
       "packagesPath": "C:\\Users\\aliso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\Lotedehierro\\obj\\",
+      "outputPath": "C:\\Users\\aliso\\Source\\Repos\\Medina-15\\CsharpItla\\Lotedehierro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aliso\\AppData\\Roaming\\NuGet\\NuGet.Config",

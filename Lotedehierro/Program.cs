@@ -7,7 +7,7 @@
             Calcularlote();
         }
 
-        static void Calcularlote()
+        private static void Calcularlote()
         {
             Console.WriteLine("A este programa se le agrega una cantidad de hierro cada uno con su longitud y se cuenta los que tengan una longitud de 1.20 a 1.30");
 
