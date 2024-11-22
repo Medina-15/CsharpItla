@@ -1,0 +1,14 @@
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\divisibles3y5\obj\Debug\net8.0\divisibles3y5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\divisibles3y5\obj\Debug\net8.0\divisibles3y5.AssemblyInfoInputs.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\divisibles3y5\obj\Debug\net8.0\divisibles3y5.AssemblyInfo.cs
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\divisibles3y5\obj\Debug\net8.0\divisibles3y5.csproj.CoreCompileInputs.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\divisibles3y5\bin\Debug\net8.0\divisibles3y5.exe
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\divisibles3y5\bin\Debug\net8.0\divisibles3y5.deps.json
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\divisibles3y5\bin\Debug\net8.0\divisibles3y5.runtimeconfig.json
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\divisibles3y5\bin\Debug\net8.0\divisibles3y5.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\divisibles3y5\bin\Debug\net8.0\divisibles3y5.pdb
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\divisibles3y5\obj\Debug\net8.0\divisibles3y5.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\divisibles3y5\obj\Debug\net8.0\refint\divisibles3y5.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\divisibles3y5\obj\Debug\net8.0\divisibles3y5.pdb
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\divisibles3y5\obj\Debug\net8.0\divisibles3y5.genruntimeconfig.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\divisibles3y5\obj\Debug\net8.0\ref\divisibles3y5.dll

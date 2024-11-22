@@ -1,0 +1,14 @@
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\sumarnumeros\bin\Debug\net8.0\sumarnumeros.exe
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\sumarnumeros\bin\Debug\net8.0\sumarnumeros.deps.json
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\sumarnumeros\bin\Debug\net8.0\sumarnumeros.runtimeconfig.json
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\sumarnumeros\bin\Debug\net8.0\sumarnumeros.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\sumarnumeros\bin\Debug\net8.0\sumarnumeros.pdb
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\sumarnumeros\obj\Debug\net8.0\sumarnumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\sumarnumeros\obj\Debug\net8.0\sumarnumeros.AssemblyInfoInputs.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\sumarnumeros\obj\Debug\net8.0\sumarnumeros.AssemblyInfo.cs
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\sumarnumeros\obj\Debug\net8.0\sumarnumeros.csproj.CoreCompileInputs.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\sumarnumeros\obj\Debug\net8.0\sumarnumeros.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\sumarnumeros\obj\Debug\net8.0\refint\sumarnumeros.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\sumarnumeros\obj\Debug\net8.0\sumarnumeros.pdb
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\sumarnumeros\obj\Debug\net8.0\sumarnumeros.genruntimeconfig.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BucleforHW\sumarnumeros\obj\Debug\net8.0\ref\sumarnumeros.dll
