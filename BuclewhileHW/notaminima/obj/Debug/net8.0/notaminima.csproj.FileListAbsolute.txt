@@ -1,0 +1,14 @@
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BuclewhileHW\notaminima\bin\Debug\net8.0\notaminima.exe
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BuclewhileHW\notaminima\bin\Debug\net8.0\notaminima.deps.json
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BuclewhileHW\notaminima\bin\Debug\net8.0\notaminima.runtimeconfig.json
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BuclewhileHW\notaminima\bin\Debug\net8.0\notaminima.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BuclewhileHW\notaminima\bin\Debug\net8.0\notaminima.pdb
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BuclewhileHW\notaminima\obj\Debug\net8.0\notaminima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BuclewhileHW\notaminima\obj\Debug\net8.0\notaminima.AssemblyInfoInputs.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BuclewhileHW\notaminima\obj\Debug\net8.0\notaminima.AssemblyInfo.cs
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BuclewhileHW\notaminima\obj\Debug\net8.0\notaminima.csproj.CoreCompileInputs.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BuclewhileHW\notaminima\obj\Debug\net8.0\notaminima.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BuclewhileHW\notaminima\obj\Debug\net8.0\refint\notaminima.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BuclewhileHW\notaminima\obj\Debug\net8.0\notaminima.pdb
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BuclewhileHW\notaminima\obj\Debug\net8.0\notaminima.genruntimeconfig.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\BuclewhileHW\notaminima\obj\Debug\net8.0\ref\notaminima.dll
