@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\BuclewhileHW\\Triangulo\\Triangulo.csproj": {}
+    "C:\\Users\\aliso\\Source\\Repos\\Medina-15\\CsharpItla\\Triangulo\\Triangulo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\BuclewhileHW\\Triangulo\\Triangulo.csproj": {
+    "C:\\Users\\aliso\\Source\\Repos\\Medina-15\\CsharpItla\\Triangulo\\Triangulo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\BuclewhileHW\\Triangulo\\Triangulo.csproj",
+        "projectUniqueName": "C:\\Users\\aliso\\Source\\Repos\\Medina-15\\CsharpItla\\Triangulo\\Triangulo.csproj",
         "projectName": "Triangulo",
-        "projectPath": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\BuclewhileHW\\Triangulo\\Triangulo.csproj",
+        "projectPath": "C:\\Users\\aliso\\Source\\Repos\\Medina-15\\CsharpItla\\Triangulo\\Triangulo.csproj",
         "packagesPath": "C:\\Users\\aliso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\BuclewhileHW\\Triangulo\\obj\\",
+        "outputPath": "C:\\Users\\aliso\\Source\\Repos\\Medina-15\\CsharpItla\\Triangulo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aliso\\AppData\\Roaming\\NuGet\\NuGet.Config",
