@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{964687D4-E4F7-4212-A688-E4D197F43B2A}|ShopApp.Data\\ShopApp.Data.csproj|c:\\users\\aliso\\onedrive\\escritorio\\bueee\\c#\\itla\\practicas\\shop\\shopapp.data\\entidades\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964687D4-E4F7-4212-A688-E4D197F43B2A}|ShopApp.Data\\ShopApp.Data.csproj|solutionrelative:shopapp.data\\entidades\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964687D4-E4F7-4212-A688-E4D197F43B2A}|ShopApp.Data\\ShopApp.Data.csproj|c:\\users\\aliso\\onedrive\\escritorio\\bueee\\c#\\itla\\practicas\\shop\\shopapp.data\\entidades\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964687D4-E4F7-4212-A688-E4D197F43B2A}|ShopApp.Data\\ShopApp.Data.csproj|solutionrelative:shopapp.data\\entidades\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964687D4-E4F7-4212-A688-E4D197F43B2A}|ShopApp.Data\\ShopApp.Data.csproj|c:\\users\\aliso\\onedrive\\escritorio\\bueee\\c#\\itla\\practicas\\shop\\shopapp.data\\context\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964687D4-E4F7-4212-A688-E4D197F43B2A}|ShopApp.Data\\ShopApp.Data.csproj|solutionrelative:shopapp.data\\context\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\Shop\\ShopApp.Data\\Entidades\\Customers.cs",
+              "RelativeDocumentMoniker": "ShopApp.Data\\Entidades\\Customers.cs",
+              "ToolTip": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\Shop\\ShopApp.Data\\Entidades\\Customers.cs",
+              "RelativeToolTip": "ShopApp.Data\\Entidades\\Customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:28:36.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\Shop\\ShopApp.Data\\Entidades\\Products.cs",
+              "RelativeDocumentMoniker": "ShopApp.Data\\Entidades\\Products.cs",
+              "ToolTip": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\Shop\\ShopApp.Data\\Entidades\\Products.cs",
+              "RelativeToolTip": "ShopApp.Data\\Entidades\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:26:11.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\Shop\\ShopApp.Data\\Context\\ShopContext.cs",
+              "RelativeDocumentMoniker": "ShopApp.Data\\Context\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\aliso\\OneDrive\\Escritorio\\bueee\\C#\\Itla\\Practicas\\Shop\\ShopApp.Data\\Context\\ShopContext.cs",
+              "RelativeToolTip": "ShopApp.Data\\Context\\ShopContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:10:13.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

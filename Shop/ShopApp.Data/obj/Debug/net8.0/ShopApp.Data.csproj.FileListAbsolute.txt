@@ -1,0 +1,11 @@
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Shop\ShopApp.Data\bin\Debug\net8.0\ShopApp.Data.deps.json
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Shop\ShopApp.Data\bin\Debug\net8.0\ShopApp.Data.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Shop\ShopApp.Data\bin\Debug\net8.0\ShopApp.Data.pdb
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Shop\ShopApp.Data\obj\Debug\net8.0\ShopApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Shop\ShopApp.Data\obj\Debug\net8.0\ShopApp.Data.AssemblyInfoInputs.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Shop\ShopApp.Data\obj\Debug\net8.0\ShopApp.Data.AssemblyInfo.cs
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Shop\ShopApp.Data\obj\Debug\net8.0\ShopApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Shop\ShopApp.Data\obj\Debug\net8.0\ShopApp.Data.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Shop\ShopApp.Data\obj\Debug\net8.0\refint\ShopApp.Data.dll
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Shop\ShopApp.Data\obj\Debug\net8.0\ShopApp.Data.pdb
+C:\Users\aliso\OneDrive\Escritorio\bueee\C#\Itla\Practicas\Shop\ShopApp.Data\obj\Debug\net8.0\ref\ShopApp.Data.dll

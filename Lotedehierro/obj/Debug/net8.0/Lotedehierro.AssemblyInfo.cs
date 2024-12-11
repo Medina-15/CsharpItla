@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lotedehierro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a4119cab3606c1dee35c3de9f7d986e637ea148")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0688a8876297d37fc12534563036626fee3cf443")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lotedehierro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lotedehierro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
